@@ -1,6 +1,6 @@
 # Projeto de Recursão
 
-1. Sobre o projeto
+## 1. Sobre o projeto
 
 Este projeto tem como objetivo compreender o funcionamento da recursão em Python, analisando como uma função pode chamar a si mesma para resolver problemas e quais são os custos computacionais envolvidos nesse processo.
 
